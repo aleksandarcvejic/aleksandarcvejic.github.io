@@ -1,6 +1,7 @@
 
 # 📝 Publications 
 
+*(Besides the papers below, **one paper** related to **Image Harmonization** is under review but not displayed online, and **one paper** related to **adversarial attack** is in preparation for the upcoming NeurIPS.)*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INR-Harmon.png"><img src='images/INR-Harmon.png' alt="INR-Harmonization" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">

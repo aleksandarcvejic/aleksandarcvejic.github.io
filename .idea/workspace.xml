@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -25,13 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/news.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/includes/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/pub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/INRSR.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/INRSR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/PPNet.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/PPNet.png" afterDir="false" />
-    </list>
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,17 +37,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LrxJ7uahs8eEvxhIcsDQsrxhoi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/ComputerPrograms/GithubLocal/WindVChen.github.io/_pages/includes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\ComputerPrograms\GithubLocal\WindVChen.github.io\_pages\includes" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,14 +83,9 @@
       <workItem from="1676882525850" duration="62000" />
       <workItem from="1676969626780" duration="64000" />
       <workItem from="1677589735129" duration="1039000" />
-      <workItem from="1678086381833" duration="1487000" />
-    </task>
-    <task id="LOCAL-00007" summary="02/18 Init">
-      <created>1676690041011</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1676690041012</updated>
+      <workItem from="1678086381833" duration="1797000" />
+      <workItem from="1680769694970" duration="2371000" />
+      <workItem from="1680777334161" duration="159000" />
     </task>
     <task id="LOCAL-00008" summary="02/18 Init">
       <created>1676690247310</created>
@@ -417,11 +423,18 @@
       <option name="project" value="LOCAL" />
       <updated>1676969680159</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="3/6 updates">
+      <created>1678088169744</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1678088169744</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -445,7 +458,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="02/18 Init" />
@@ -454,32 +466,7 @@
     <MESSAGE value="2/18 order" />
     <MESSAGE value="2/20 加入Map" />
     <MESSAGE value="2/21 supp code" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/21 supp code" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676644889063">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676644889063" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1676694927756">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1676694927756" />
-    <state x="806" y="433" key="VCS.ChangelistChooser" timestamp="1676688628154">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="806" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676688628154" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1676969684265">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676969684265" />
-    <state x="567" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1676692925053">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="567" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676692925053" />
-    <state x="800" y="254" width="938" height="532" key="find.popup" timestamp="1677591042178">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="800" y="254" width="938" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1677591042178" />
+    <MESSAGE value="3/6 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/6 updates" />
   </component>
 </project>
