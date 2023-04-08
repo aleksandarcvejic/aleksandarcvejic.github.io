@@ -37,6 +37,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7bc0f05f-5954-47be-9d1f-6835c2a7e1ad" />
+        <option name="url" value="https://github.com/WindVChen/WindVChen.github.io.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -88,13 +101,7 @@
       <workItem from="1680777334161" duration="159000" />
       <workItem from="1680777526833" duration="165000" />
       <workItem from="1680778112140" duration="58000" />
-    </task>
-    <task id="LOCAL-00010" summary="02/18 Init">
-      <created>1676690690498</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1676690690498</updated>
+      <workItem from="1680951548607" duration="153000" />
     </task>
     <task id="LOCAL-00011" summary="02/18 Init">
       <created>1676691198490</created>
@@ -432,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680778161412</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="updates">
+      <created>1680951695963</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1680951695963</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
