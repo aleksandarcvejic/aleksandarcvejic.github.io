@@ -37,11 +37,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -102,13 +102,8 @@
       <workItem from="1680777526833" duration="165000" />
       <workItem from="1680778112140" duration="58000" />
       <workItem from="1680951548607" duration="153000" />
-    </task>
-    <task id="LOCAL-00011" summary="02/18 Init">
-      <created>1676691198490</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1676691198490</updated>
+      <workItem from="1680952031502" duration="124000" />
+      <workItem from="1689423546621" duration="5715000" />
     </task>
     <task id="LOCAL-00012" summary="02/18 Init">
       <created>1676691289217</created>
@@ -446,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680951695963</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="updates">
+      <created>1680952147589</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1680952147589</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

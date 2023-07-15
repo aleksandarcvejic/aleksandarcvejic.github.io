@@ -1,7 +1,62 @@
 
 # 📝 Publications 
 
-*(Besides the papers below, **one paper** related to **Image Harmonization** is under review but not displayed online, and **one paper** related to **Adversarial Attack** is in preparation for the upcoming NeurIPS.)*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Diff-Harmon.png"><img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href=""><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a> \\
+ *Arxiv, 2023* \\
+**<font color="#C00000">Jianqi Chen</font>**, Zhengxia Zou, Yilan Zhang, Keyan Chen, and Zhenwei Shi \\
+[<a href="">PDF</a>] [<a href="https://github.com/WindVChen/Diff-Harmonization">Code</a>] 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/ECL.png"><img src='images/ECL.png' alt="ECL" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2307.04136"><b>ECL: Class-Enhancement Contrastive Learning for Long-tailed Skin Lesion Classification</b></a> \\
+ *MICCAI, 2023 (STAR Award)* \\
+Yilan Zhang, **<font color="#C00000">Jianqi Chen</font>**, Ke Wang, and Fengying Xie \\
+[<a href="https://arxiv.org/abs/2307.04136">PDF</a>] [<a href="https://github.com/zylbuaa/ECL">Code</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/DiffAttack.png"><img src='images/DiffAttack.png' alt="DiffAttack" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2305.08192"><b>Diffusion Models for Imperceptible and Transferable Adversarial Attack</b></a> \\
+ *Arxiv, 2023* \\
+**<font color="#C00000">Jianqi Chen</font>**, Hao Chen, Keyan Chen, Yilan Zhang, Zhengxia Zou, and Zhenwei Shi \\
+[<a href="https://arxiv.org/abs/2305.08192">PDF</a>] [<a href="https://github.com/WindVChen/DiffAttack">Code</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Prompt_CC.png"><img src='images/Prompt_CC.png' alt="Prompt_CC" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://doi.org/10.36227/techrxiv.23269310.v1"><b>A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning</b></a> \\
+ *TechRxiv, 2023* \\
+Chenyang Liu, Rui Zhao, **<font color="#C00000">Jianqi Chen</font>**, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi  \\
+[<a href="https://doi.org/10.36227/techrxiv.23269310.v1">PDF</a>] [Code coming soon] 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INRSR.png"><img src='images/INRSR.png' alt="INRSR" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+ <a class=PaperTitle href="https://arxiv.org/abs/2302.08046"><b>Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space</b></a> \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
+ Keyan Chen, Wenyuan Li, Sen Lei, **<font color="#C00000">Jianqi Chen</font>**, Xiaolong Jiang, Zhengxia Zou, and Zhenwei Shi \\
+[<a href="https://arxiv.org/abs/2302.08046">PDF</a>] [<a href="https://kyanchen.github.io/FunSR/">Project</a>] [<a href="https://github.com/KyanChen/FunSR">Code</a>] 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INR-Harmon.png"><img src='images/INR-Harmon.png' alt="INR-Harmonization" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -9,7 +64,7 @@
 <a class=PaperTitle href="https://arxiv.org/abs/2303.01681"><b>Dense Pixel-to-Pixel Harmonization via Continuous Image Representation</b></a> \\
  *Arxiv, 2023* \\
 **<font color="#C00000">Jianqi Chen</font>**, Yilan Zhang, Zhengxia Zou, Keyan Chen, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code coming soon</a>] 
+[<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code</a>] 
 
 </div>
 </div>
@@ -20,7 +75,7 @@
 
 <a class=PaperTitle href="https://arxiv.org/abs/2211.11393"><b>TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis</b></a> \\
  *Computers in Biology and Medicine (CBM), 2023* \\
-Yilan Zhang, Fengying Xie, **<font color="#C00000">Jianqi Chen</font>**, and Jie Liu \\
+Yilan Zhang, Fengying Xie, and **<font color="#C00000">Jianqi Chen</font>** \\
 [<a href="https://arxiv.org/abs/2211.11393">PDF</a>] [<a href="https://github.com/zylbuaa/TFormer">Code</a>] 
 
 </div>
@@ -34,18 +89,6 @@ Yilan Zhang, Fengying Xie, **<font color="#C00000">Jianqi Chen</font>**, and Jie
  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023* \\
 Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **<font color="#C00000">Jianqi Chen</font>**, and Weidi Xie \\
 [<a href="https://arxiv.org/abs/2301.09506">PDF</a>] [<a href="https://kyanchen.github.io/OvarNet/">Project</a>] [<a href="https://github.com/KyanChen/OvarNet">Code</a>] 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INRSR.png"><img src='images/INRSR.png' alt="INRSR" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
- <a class=PaperTitle href="https://arxiv.org/abs/2302.08046"><b>Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space</b></a> \\
- *Arxiv, 2023* \\
- Keyan Chen, Wenyuan Li, Sen Lei, **<font color="#C00000">Jianqi Chen</font>**, Xiaolong Jiang, Zhengxia Zou, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2302.08046">PDF</a>] [<a href="https://kyanchen.github.io/FunSR/">Project</a>] [<a href="https://github.com/KyanChen/FunSR">Code</a>] 
 
 </div>
 </div>
