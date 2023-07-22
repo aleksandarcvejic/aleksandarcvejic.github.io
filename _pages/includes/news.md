@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.07*: We have released [Gradio Demo](https://huggingface.co/spaces/WindVChen/INR-Harmon) of our [INR-Harmonization](https://github.com/WindVChen/INR-Harmonization) in Huggingface Space. Feel free to play around it 🎉🎉!
 - *2023.06*: One paper is accepted by ***<font color="red">MICCAI</font> (STAR Award)***!
 - *2023.05*: Honored to be invited to give talks about ***Diffusion Editing and Harmonization*** for OPPO Research Institute!
 - *2023.05*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.125)***!

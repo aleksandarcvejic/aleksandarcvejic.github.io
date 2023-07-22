@@ -4,10 +4,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Diff-Harmon.png"><img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href=""><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a> \\
+<a class=PaperTitle href="https://arxiv.org/abs/2307.08182"><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a> \\
  *Arxiv, 2023* \\
 **<font color="#C00000">Jianqi Chen</font>**, Zhengxia Zou, Yilan Zhang, Keyan Chen, and Zhenwei Shi \\
-[<a href="">PDF</a>] [<a href="https://github.com/WindVChen/Diff-Harmonization">Code</a>] 
+[<a href="https://arxiv.org/abs/2307.08182">PDF</a>] [<a href="https://github.com/WindVChen/Diff-Harmonization">Code</a>] 
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Chenyang Liu, Rui Zhao, **<font color="#C00000">Jianqi Chen</font>**, Zipeng Qi,
 <a class=PaperTitle href="https://arxiv.org/abs/2303.01681"><b>Dense Pixel-to-Pixel Harmonization via Continuous Image Representation</b></a> \\
  *Arxiv, 2023* \\
 **<font color="#C00000">Jianqi Chen</font>**, Yilan Zhang, Zhengxia Zou, Keyan Chen, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code</a>] 
+[<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code</a>] [<a href="https://huggingface.co/spaces/WindVChen/INR-Harmon">Demo</a>]
 
 </div>
 </div>
