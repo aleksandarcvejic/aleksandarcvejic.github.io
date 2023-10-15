@@ -39,9 +39,9 @@ Yilan Zhang, **<font color="#C00000">Jianqi Chen</font>**, Ke Wang, and Fengying
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://doi.org/10.36227/techrxiv.23269310.v1"><b>A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning</b></a> \\
- *TechRxiv, 2023* \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
 Chenyang Liu, Rui Zhao, **<font color="#C00000">Jianqi Chen</font>**, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi  \\
-[<a href="https://doi.org/10.36227/techrxiv.23269310.v1">PDF</a>] [Code coming soon] 
+[<a href="https://doi.org/10.36227/techrxiv.23269310.v1">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/PromptCC">Code</a>] 
 
 </div>
 </div>
@@ -62,7 +62,7 @@ Chenyang Liu, Rui Zhao, **<font color="#C00000">Jianqi Chen</font>**, Zipeng Qi,
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2303.01681"><b>Dense Pixel-to-Pixel Harmonization via Continuous Image Representation</b></a> \\
- *Arxiv, 2023* \\
+ *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023* \\
 **<font color="#C00000">Jianqi Chen</font>**, Yilan Zhang, Zhengxia Zou, Keyan Chen, and Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code</a>] [<a href="https://huggingface.co/spaces/WindVChen/INR-Harmon">Demo</a>]
 
