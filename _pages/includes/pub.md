@@ -1,6 +1,28 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/PIBD.PNG"><img src='images/PIBD.PNG' alt="PIBD" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2401.01646"><b>Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction</b></a> \\
+ *ICLR, 2024 (Spotlight)* \\
+Yilan Zhang, Yingxue Xu, **<font color="#C00000">Jianqi Chen</font>**, Fengying Xie, Hao Chen  \\
+[<a href="https://arxiv.org/abs/2401.01646">PDF</a>] [<a href="https://github.com/zylbuaa/PIBD">Code</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INR-Attack.PNG"><img src='images/INR-Attack.PNG' alt="INR-Attack" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10379828"><b>Generating Imperceptible and Cross-Resolution Remote Sensing Adversarial Examples Based on Implicit Neural Representations</b></a> \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
+Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Liqin Liu, Keyan Chen, Zhenwei Shi, Zhengxia Zou  \\
+[<a href="https://ieeexplore.ieee.org/document/10379828">PDF</a>]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Diff-Harmon.png"><img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
