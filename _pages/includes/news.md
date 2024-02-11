@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.01*: One paper is accepted by ***<font color="red">ICLR</font> (Spotlight)***!
+- *2024.01*: One paper is accepted by ***<font color="red">ICLR 2024</font> (Spotlight)***!
 - *2023.12*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!
 - *2023.10*: One paper is accepted by ***<font color="red">TCSVT</font> (IF=8.4)***!
 - *2023.09*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!
@@ -7,7 +7,7 @@
 - *2023.06*: One paper is accepted by ***<font color="red">MICCAI</font> (STAR Award)***!
 - *2023.05*: Honored to be invited to give talks about ***<font color="#224b8d">Diffusion Editing and Harmonization</font>*** for OPPO Research Institute!
 - *2023.05*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!
-- *2023.02*: One paper is accepted by ***<font color="red">CVPR 2023</font>***, and one paper is accepted by ***<font color="red">CBM</font> (IF=7.7)***!
+- *2023.02*: ***<font color="blue">1/2</font>*** papers are accepted by ***<font color="red">CVPR 2023</font>***, and one paper is accepted by ***<font color="red">CBM</font> (IF=7.7)***!
 - *2022.12*: One paper is accepted by ***<font color="red">GRSL</font> (IF=4.8)***!
 - *2022.07*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!
 - *2022.06*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianqi Chen (陈剑奇)"
-description              : "Graduated master student from LEVIR group, Beihang University. Focusing on AISafety, image synthesis, and remote sensing image processing."
+description              : "Graduated master student from LEVIR group, Beihang University. Focusing on 4D (human motion) generation, AISafety, image synthesis, and remote sensing image processing."
 repository               : "WindVChen/WindVChen.github.io"
 google_scholar_stats_use_cdn : true
 
