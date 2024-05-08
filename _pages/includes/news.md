@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.05*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!
 - *2024.01*: One paper is accepted by ***<font color="red">ICLR 2024</font> (Spotlight)***!
 - *2023.12*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!
 - *2023.10*: One paper is accepted by ***<font color="red">TCSVT</font> (IF=8.4)***!
