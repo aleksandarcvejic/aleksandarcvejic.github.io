@@ -1,6 +1,17 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Phys-attack.png"><img src='images/Phys-attack.png' alt="Phys-attack" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10596063"><b>Physical Adversarial Attacks Against Aerial Object Detection With Feature-Aligned Expandable Textures</b></a> \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
+Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Zhenbang Peng, Yi Dang, Zhenwei Shi, Zhengxia Zou
+[<a href="https://ieeexplore.ieee.org/abstract/document/10596063">PDF</a>]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/VCO-AP.gif"><img src='images/VCO-AP.gif' alt="VCO-AP" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -8,6 +19,17 @@
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
  **<font color="#C00000">Jianqi Chen</font>**, Yilan Zhang, Chenyang Liu, Keyan Chen, Zhengxia Zou, Zhenwei Shi  \\
 [<a href="https://ieeexplore.ieee.org/document/10521633">PDF</a>] [<a href="https://github.com/WindVChen/VCO-AP">Code</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/DiffAttack.png"><img src='images/DiffAttack.png' alt="DiffAttack" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10716799"><b>Diffusion Models for Imperceptible and Transferable Adversarial Attack</b></a> \\
+ *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024* \\
+**<font color="#C00000">Jianqi Chen</font>**, Hao Chen, Keyan Chen, Yilan Zhang, Zhengxia Zou, and Zhenwei Shi \\
+[<a href="https://ieeexplore.ieee.org/abstract/document/10716799">IEEE</a>] [<a href="https://github.com/WindVChen/DiffAttack">Code</a>] [<a href="https://arxiv.org/abs/2305.08192">ArXiv</a>]
 
 </div>
 </div>
@@ -57,16 +79,6 @@ Yilan Zhang, **<font color="#C00000">Jianqi Chen</font>**, Ke Wang, and Fengying
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/DiffAttack.png"><img src='images/DiffAttack.png' alt="DiffAttack" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a class=PaperTitle href="https://arxiv.org/abs/2305.08192"><b>Diffusion Models for Imperceptible and Transferable Adversarial Attack</b></a> \\
- *Arxiv, 2023* \\
-**<font color="#C00000">Jianqi Chen</font>**, Hao Chen, Keyan Chen, Yilan Zhang, Zhengxia Zou, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2305.08192">PDF</a>] [<a href="https://github.com/WindVChen/DiffAttack">Code</a>] 
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Prompt_CC.png"><img src='images/Prompt_CC.png' alt="Prompt_CC" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
