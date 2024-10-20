@@ -6,7 +6,7 @@
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10596063"><b>Physical Adversarial Attacks Against Aerial Object Detection With Feature-Aligned Expandable Textures</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
-Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Zhenbang Peng, Yi Dang, Zhenwei Shi, Zhengxia Zou
+Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Zhenbang Peng, Yi Dang, Zhenwei Shi, Zhengxia Zou \\
 [<a href="https://ieeexplore.ieee.org/abstract/document/10596063">PDF</a>]
 
 </div>
