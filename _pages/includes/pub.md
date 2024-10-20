@@ -1,6 +1,17 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Sitcom-Crafter.jpg"><img src='images/Sitcom-Crafter.jpg' alt="Sitcom-Crafter" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2410.10790"><b>Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes</b></a> \\
+ *Arxiv, 2024* \\
+**<font color="#C00000">Jianqi Chen</font>**, Panwen Hu, Xiaojun Chang, Zhenwei Shi, Michael Christian Kampffmeyer, Xiaodan Liang \\
+[<a href="https://arxiv.org/abs/2410.10790">PDF</a>] [<a href="https://github.com/WindVChen/Sitcom-Crafter">Code</a>] [<a href="https://windvchen.github.io/Sitcom-Crafter/">Project</a>] 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Phys-attack.png"><img src='images/Phys-attack.png' alt="Phys-attack" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
