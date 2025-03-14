@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianqi Chen (陈剑奇)"
-description              : "Graduated master student from LEVIR group, Beihang University. Focusing on 4D (human motion) generation, AISafety, image synthesis, and remote sensing image processing."
+description              : "Ph.D. student, King Abdullah University of Science and Technology (KAUST). Focusing on 4D reconstruction and generation, AISafety, image synthesis, and remote sensing image processing."
 repository               : "WindVChen/WindVChen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :
 author:
   name             : "Jianqi Chen <br /> (陈剑奇)"
   avatar           : "images/Profi.jpg"
-  bio              : "LEVIR Group"
-  location         : "Beijing"
+  bio              : "KAUST"
+  location         : "Saudi Arabia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7jZZKH0AAAAJ&hl=en&oi=ao"

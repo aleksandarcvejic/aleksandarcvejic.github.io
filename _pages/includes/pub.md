@@ -1,13 +1,35 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/v2m4.png"><img src='images/v2m4.png' alt="V2M4" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2503.09631"><b>V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video</b></a> \\
+ *ArXiv, 2025* \\
+**<font color="#C00000">Jianqi Chen</font>**, Biao Zhang,  Xiangjun Tang,  Peter Wonka \\
+[<a href="https://arxiv.org/abs/2503.09631">PDF</a>] [<a href="https://github.com/WindVChen/V2M4">Code</a>] [<a href="https://windvchen.github.io/V2M4/">Project</a>] 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Sitcom-Crafter.jpg"><img src='images/Sitcom-Crafter.jpg' alt="Sitcom-Crafter" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2410.10790"><b>Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes</b></a> \\
- *Arxiv, 2024* \\
+ *International Conference on Learning Representations (ICLR), 2025* \\
 **<font color="#C00000">Jianqi Chen</font>**, Panwen Hu, Xiaojun Chang, Zhenwei Shi, Michael Christian Kampffmeyer, Xiaodan Liang \\
 [<a href="https://arxiv.org/abs/2410.10790">PDF</a>] [<a href="https://github.com/WindVChen/Sitcom-Crafter">Code</a>] [<a href="https://windvchen.github.io/Sitcom-Crafter/">Project</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Diff-Harmon.png"><img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10858769"><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a> \\
+ *IEEE Transactions on Multimedia (TMM), 2025* \\
+**<font color="#C00000">Jianqi Chen</font>**, Zhengxia Zou, Yilan Zhang, Keyan Chen, and Zhenwei Shi \\
+[<a href="https://ieeexplore.ieee.org/abstract/document/10858769">PDF</a>] [<a href="https://github.com/WindVChen/Diff-Harmonization">Code</a>] [<a href="https://www.youtube.com/watch?v=mfBTIVp6JBU&t=4s&feature=youtu.be">Video</a>] 
 
 </div>
 </div>
@@ -50,7 +72,7 @@ Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Zhenbang Peng, Yi Dang, 
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2401.01646"><b>Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction</b></a> \\
- *ICLR, 2024 (Spotlight)* \\
+* International Conference on Learning Representations (ICLR), 2024 (Spotlight)* \\
 Yilan Zhang, Yingxue Xu, **<font color="#C00000">Jianqi Chen</font>**, Fengying Xie, Hao Chen  \\
 [<a href="https://arxiv.org/abs/2401.01646">PDF</a>] [<a href="https://github.com/zylbuaa/PIBD">Code</a>] 
 
@@ -67,18 +89,6 @@ Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Liqin Liu, Keyan Chen, Z
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Diff-Harmon.png"><img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a class=PaperTitle href="https://arxiv.org/abs/2307.08182"><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a> \\
- *Arxiv, 2023* \\
-**<font color="#C00000">Jianqi Chen</font>**, Zhengxia Zou, Yilan Zhang, Keyan Chen, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2307.08182">PDF</a>] [<a href="https://github.com/WindVChen/Diff-Harmonization">Code</a>] [<a href="https://www.youtube.com/watch?v=mfBTIVp6JBU&t=4s&feature=youtu.be">Video</a>] 
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/ECL.png"><img src='images/ECL.png' alt="ECL" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
