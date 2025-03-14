@@ -72,7 +72,7 @@ Yu Zhang, **<font color="#C00000">Jianqi Chen</font>**, Zhenbang Peng, Yi Dang, 
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2401.01646"><b>Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction</b></a> \\
-* International Conference on Learning Representations (ICLR), 2024 (Spotlight)* \\
+ *International Conference on Learning Representations (ICLR), 2024 (Spotlight)* \\
 Yilan Zhang, Yingxue Xu, **<font color="#C00000">Jianqi Chen</font>**, Fengying Xie, Hao Chen  \\
 [<a href="https://arxiv.org/abs/2401.01646">PDF</a>] [<a href="https://github.com/zylbuaa/PIBD">Code</a>] 
 
