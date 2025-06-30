@@ -5,9 +5,20 @@
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2503.09631"><b>V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video</b></a> \\
- *ArXiv, 2025* \\
+ *International Conference on Computer Vision (ICCV), 2025* \\
 **<font color="#C00000">Jianqi Chen</font>**, Biao Zhang,  Xiangjun Tang,  Peter Wonka \\
 [<a href="https://arxiv.org/abs/2503.09631">PDF</a>] [<a href="https://github.com/WindVChen/V2M4">Code</a>] [<a href="https://windvchen.github.io/V2M4/">Project</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/camou-attack.png"><img src='images/camou-attack.png' alt="camou-attack" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/11045780"><b>Physical Adversarial Camouflage Generation in Optical Remote Sensing Images</b></a> \\
+ *IEEE Transactions on Information Forensics and Security (TIFS), 2025* \\
+Zhenbang Peng, **<font color="#C00000">Jianqi Chen</font>**, Zhenwei Shi,  Zhengxia Zou \\
+[<a href="https://ieeexplore.ieee.org/document/11045780">PDF</a>] [<a href="https://github.com/Arknightpzb/Physical-Adversarial-Camouflage-Generation-in-Optical-Remote-Sensing-Images">Code</a>]
 
 </div>
 </div>

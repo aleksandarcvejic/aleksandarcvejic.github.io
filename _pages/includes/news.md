@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: One paper is accepted by ***<font color="red">ICCV 2025</font>***, and one paper is accepted by ***<font color="red">TIFS</font> (IF=8.0)***!!
 - *2025.01*: One paper is accepted by ***<font color="red">ICLR 2025</font>***!
 - *2024.11*: One paper is accepted by ***<font color="red">TMM</font> (IF=8.4)***!
 - *2024.10*: One paper is accepted by ***<font color="red">TPAMI</font> (IF=20.8)***!
