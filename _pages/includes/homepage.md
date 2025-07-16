@@ -1,4 +1,4 @@
-# 📎 Homepages
-- Personal Pages: https://WindVChen.github.io
-- Google Scholar: https://scholar.google.com/citations?user=7jZZKH0AAAAJ&hl=en&oi=ao
-- DBLP: https://dblp.org/pid/86/10143.html
+# 📎 Homepages  
+- Personal Site: <https://aleksandarcvejic.github.io> :contentReference[oaicite:19]{index=19}  
+- Google Scholar: <https://scholar.google.com/citations?user=xbAU9sIAAAAJ> :contentReference[oaicite:1]{index=1}  
+- DBLP: <https://dblp.org/pid/399/6834> :contentReference[oaicite:2]{index=2}

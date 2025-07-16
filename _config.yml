@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jianqi Chen (陈剑奇)"
-description              : "Ph.D. student, King Abdullah University of Science and Technology (KAUST). Focusing on 4D reconstruction and generation, AISafety, image synthesis, and remote sensing image processing."
-repository               : "WindVChen/WindVChen.github.io"
+title                    : "Aleksandar Cvejic"
+description              : "Ph.D. candidate, King Abdullah University of Science and Technology (KAUST). Focusing on image editing and representation, image synthesis, and 3D editing."
+repository               : "aleksandarcvejic/aleksandarcvejic.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Jianqi Chen <br /> (陈剑奇)"
-  avatar           : "images/Profi.jpg"
+  name             : "Aleksandar Cvejic"
+  avatar           : "images/pic_zoom.jpg"
   bio              : "KAUST"
   location         : "Saudi Arabia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7jZZKH0AAAAJ&hl=en&oi=ao"
-  email            : "windvchen@gmail.com"
+  email            : "aleksandar.cvejic@kaust.edu.sa"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WindVChen"
+  github           : "Gorluxor"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"rayeren"
-  dblp             : "https://dblp.org/pid/86/10143.html"
-  orcid            : "https://orcid.org/0000-0003-0031-8417"
+  dblp             : #"https://dblp.org/pid/86/10143.html"
+  orcid            : "https://orcid.org/0009-0005-4414-4457"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -1,11 +1,14 @@
+# 📖 Educations  
+- *2022 – 2027* Ph.D., Computer Science — King Abdullah University of Science & Technology (KAUST), GPA 3.89. :contentReference[oaicite:28]{index=28}  
+- *2019 – 2021* M.Sc., Computer & Control Engineering — Univ. of Novi Sad, GPA 10/10. :contentReference[oaicite:29]{index=29}  
+- *2015 – 2019* B.Sc., Computer & Control Engineering — Univ. of Novi Sad, GPA 9.74/10. :contentReference[oaicite:30]{index=30}  
 
-# 📖 Educations
-- *2024.08 - Present*, Ph.D. in Computer Science, King Abdullah University of Science and Technology, Saudi Arabia.
-- *2021.09 - 2024.01*, M.S. in Pattern Recognition and Intelligent System, Beihang University, China.
-- *2017.09 - 2021.06*, B.S. in Image Processing, Beihang University, China.
+# 📚 Academic Service  
+- **Conference reviewer**: CVPR 2024, CVPR 2025, SIGGRAPH Asia 2025. :contentReference[oaicite:31]{index=31}  
 
-# 📚 Academic Service
-- **Conference Reviewer**: NeurIPS, ICLR, ICML, AISTATS, etc.
-- **Journal Reviewer**: IEEE Transactions on Information Forensics and Security (TIFS), Transations on Machine Learning Research (TMLR), IEEE Geoscience and Remote Sensing Letters (GRSL), etc.
+# 💼 Experience  
+- *2021.03 – 2021.10* Computer Vision Research Intern — KAUST  
+- *2020.03 – 2021.02* Teaching Assistant — Univ. of Novi Sad (Algorithms & DS, XML/Web Services, etc.) :contentReference[oaicite:32]{index=32}  
 
-<br/>
+# 🛠 Technical Skills  
+Python | PyTorch | Diffusers | Transformers | Slurm | Git | C/C++ | Java   — reproducible large‑scale training pipelines :contentReference[oaicite:33]{index=33}

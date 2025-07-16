@@ -1,3 +1,11 @@
-# 👋 About Me ([CV](https://windvchen.github.io/images/Resume.pdf))
-I am currently pursuing a Ph.D. at King Abdullah University of Science and Technology (KAUST) under the supervision of Prof. [Peter Wonka](https://scholar.google.co.uk/citations?user=0EKXSXgAAAAJ&hl=en), starting in August 2024. I received my master's degree at [LEVIR Group](https://levir.buaa.edu.cn/), Beihang University (BUAA) in January 2024, supervised by Prof. [Zhenwei Shi](https://scholar.google.com.hk/citations?user=kNhFWQIAAAAJ&hl=en&oi=ao) and Prof. [Zhengxia Zou](https://scholar.google.com.hk/citations?user=DzwoyZsAAAAJ&hl=en&oi=ao). Previously, I received my bachelor’s degree from Beihang University in June 2021. Besides that, I was also a research intern at [SenseTime](https://www.sensetime.com/en) working on content generation from May - Aug, 2023, supervised by Dr. [Jianlou Si](https://scholar.google.com/citations?user=N21o7qoAAAAJ&hl=en). Additionally, from Jan - Aug, 2024, I was remotely supervised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=zh-CN) on human motion generation. My current research interests lie in 4D reconstructiona and generation, AISafety, image synthesis, and remote sensing image processing.
+# 👋 About Me 
 
+I am a Ph.D. candidate (2022 – 2027) in Computer Science at the **Visual Computing Center, KAUST**, advised by Prof. [Peter Wonka](https://scholar.google.com/citations?user=0EKXSXgAAAAJ&hl=en).  
+My research focuses on **controllable generative AI** – in particular diffusion models, vision–language representation learning, and fine‑grained image editing & 3‑D/4‑D content generation. :contentReference[oaicite:24]{index=24}
+
+Previously I obtained:  
+
+- **M.Sc.** (Computer & Control Engineering, 2021) — Univ. of Novi Sad, Serbia (GPA 10/10)  
+- **B.Sc.** (Computer & Control Engineering, 2019) — Univ. of Novi Sad, Serbia (GPA 9.74/10) :contentReference[oaicite:25]{index=25}
+
+Internships/teaching include a Computer Vision research internship at KAUST (2021) and a full‑time teaching assistantship at Novi Sad (2020 – 2021). :contentReference[oaicite:26]{index=26}
