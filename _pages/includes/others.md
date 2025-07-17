@@ -1,8 +1,3 @@
-# 📖 Educations  
-- *2022 – 2027* Ph.D., Computer Science — King Abdullah University of Science & Technology (KAUST), GPA 3.89. 
-- *2019 – 2021* M.Sc., Computer & Control Engineering — Univ. of Novi Sad, GPA 10/10. 
-- *2015 – 2019* B.Sc., Computer & Control Engineering — Univ. of Novi Sad, GPA 9.74/10. 
-
 # 📚 Academic Service  
 - **Conference reviewer**: CVPR 2024, CVPR 2025, SIGGRAPH Asia 2025. 
 
