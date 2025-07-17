@@ -1,3 +1,6 @@
+
+# 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><a href="images/partedit.pdf"><img src='images/partedit.jpg' alt="PartEdit" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href="https://arxiv.org/abs/2502.04050"><b>PartEdit: Fine‑Grained Image Editing using Pre‑Trained Diffusion Models</b></a>  \\

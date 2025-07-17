@@ -1,4 +1,4 @@
-# 📚 Academic Service  
+# 📚 Academic Service  
 - **Conference reviewer**: CVPR 2024, CVPR 2025, SIGGRAPH Asia 2025. 
 
 # 💼 Experience  
