@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><a href="images/mind-the-glitch.pdf"><img src='images/mind-the-glitch.jpg' alt="Mind the Glitch" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href="https://abdo-eldesokey.github.io/mind-the-glitch/public/mtg_teaser_sound.mp4"><img src='images/mind-the-glitch.png' alt="Mind the Glitch" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href="https://abdo-eldesokey.github.io/mind-the-glitch/"><b>Disentangling Diffusion Features for Detecting Inconsistencies in Subject-Driven Generation</b></a> \\
 *NeurIPS, 2025 (Spotlight)* \\
