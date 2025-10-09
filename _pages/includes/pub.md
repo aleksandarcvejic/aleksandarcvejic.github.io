@@ -1,6 +1,14 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><a href="images/mind-the-glitch.pdf"><img src='images/mind-the-glitch.jpg' alt="Mind the Glitch" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<a class=PaperTitle href="https://abdo-eldesokey.github.io/mind-the-glitch/"><b>Disentangling Diffusion Features for Detecting Inconsistencies in Subject-Driven Generation</b></a> \\
+*NeurIPS, 2025 (Spotlight)* \\
+Abdelrahman Eldesokey, **<font color="#C00000">Aleksandar Cvejic</font>**, Bernard Ghanem, Peter Wonka \\
+[<a href="https://arxiv.org/abs/2509.21989">PDF</a>] [<a href="https://github.com/abdo-eldesokey/mind-the-glitch">Code</a>] [<a href="https://abdo-eldesokey.github.io/mind-the-glitch/">Project page</a>]
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><a href="images/partedit.pdf"><img src='images/partedit.jpg' alt="PartEdit" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href="https://arxiv.org/abs/2502.04050"><b>PartEdit: Fine‑Grained Image Editing using Pre‑Trained Diffusion Models</b></a>  \\
