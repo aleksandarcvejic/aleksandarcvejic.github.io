@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Aleksandar Cvejic"
-description              : "Ph.D. candidate, King Abdullah University of Science and Technology (KAUST). Focusing on image editing and representation, image synthesis, and 3D editing."
+description              : "Ph.D. candidate, King Abdullah University of Science and Technology (KAUST). Focusing on image editing and representation, diffusion models, image synthesis."
 repository               : "aleksandarcvejic/aleksandarcvejic.github.io"
 google_scholar_stats_use_cdn : true
 
