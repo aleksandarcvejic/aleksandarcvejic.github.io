@@ -1,8 +1,11 @@
 # 🔥 News  
+- *2026.04* **"NearID"** preprint released on arXiv — identity representation learning with near-identity distractors (w/ Snap Research).
+- *2026.01* Serving as reviewer for **CVPR 2026**, **ECCV 2026**, and **SIGGRAPH 2026**.
+- *2025.12* Research collaboration with **Snap Research** on identity-aware visual representations.
 - *2025.11* Let's meet at **ICCV 2025** in Honolulu, Hawaii.
-- *2025.09* **“Mind the Glitch”** accepted to **NeurIPS 2025** (Spotlight).
-- *2025.07* Serving as reviewer for **SIGGRAPH Asia 2025**.
-- *2025.06*  **“EditCLIP”** accepted to **ICCV 2025**.  
-- *2025.04*  **“PartEdit”** accepted to **Siggraph 2025** - see you in Vancouver! 
-- *2024.11*  Serving as reviewer for **CVPR 2025**. 
-- *2023.11*  Serving as reviewer for **CVPR 2024**. 
+- *2025.09* **"Mind the Glitch"** accepted to **NeurIPS 2025** (Spotlight).
+- *2025.07* Serving as reviewer for **SIGGRAPH Asia 2025**.
+- *2025.06*  **"EditCLIP"** accepted to **ICCV 2025**.  
+- *2025.04*  **"PartEdit"** accepted to **Siggraph 2025** - see you in Vancouver! 
+- *2024.11*  Serving as reviewer for **CVPR 2025**. 
+- *2023.11*  Serving as reviewer for **CVPR 2024**. 
