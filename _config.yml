@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Aleksandar Cvejic"
-description              : "Ph.D. candidate, King Abdullah University of Science and Technology (KAUST). Focusing on image editing and representation, diffusion models, image synthesis."
+description              : "Ph.D. candidate, King Abdullah University of Science and Technology (KAUST). Focusing on controllable visual synthesis, identity representation learning, diffusion models, and vision-language alignment."
 repository               : "aleksandarcvejic/aleksandarcvejic.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"rayeren"
+  linkedin         : "aleksandar-cvejic"
   dblp             : #"https://dblp.org/pid/86/10143.html"
   orcid            : "https://orcid.org/0009-0005-4414-4457"
   pinterest        :
