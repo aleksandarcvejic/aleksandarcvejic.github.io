@@ -9,7 +9,7 @@
 [<a href="https://arxiv.org/abs/2502.04050">PDF</a>] [<a href="https://github.com/Gorluxor/partedit">Code</a>] [<a href="https://gorluxor.github.io/part-edit/">Project page</a>]  
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><iframe src="https://www.youtube.com/embed/wbPvoLa3fjc" title="NearID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; aspect-ratio:16/9;"></iframe></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href="https://www.youtube.com/watch?v=wbPvoLa3fjc"><img src='images/nearid.png' alt="NearID" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <a class=PaperTitle href="https://arxiv.org/abs/2604.01973"><b>NearID: Identity Representation Learning via Near-identity Distractors</b></a> \\
 *arXiv, 2026 (Under Review)*  \\
