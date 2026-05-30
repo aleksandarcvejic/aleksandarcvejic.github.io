@@ -33,3 +33,19 @@ Qian Wang, **<font color="#C00000">Aleksandar Cvejic</font>**, Abdelrahman Eldes
 Abdelrahman Eldesokey, **<font color="#C00000">Aleksandar Cvejic</font>**, Bernard Ghanem, Peter Wonka \\
 [<a href="https://arxiv.org/abs/2509.21989">PDF</a>] [<a href="https://github.com/abdo-eldesokey/mind-the-glitch">Code</a>] [<a href="https://abdo-eldesokey.github.io/mind-the-glitch/">Project page</a>]
 </div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><a href="https://zhyever.github.io/CriterAlign/"><img src='images/criteralign.jpg' alt="CriterAlign" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<a class=PaperTitle href="https://arxiv.org/abs/2605.19665"><b>CriterAlign: Criterion-Centric Rationale Alignment for Code Preference Judging</b></a> \\
+*arXiv, 2026 (Under Review)*  \\
+Zhenyu Li, **<font color="#C00000">Aleksandar Cvejic</font>**, Zehui Chen, Peter Wonka  \\
+[<a href="https://arxiv.org/abs/2605.19665">PDF</a>] [<a href="https://github.com/zhyever/CriterAlign">Code</a>] [<a href="https://zhyever.github.io/CriterAlign/">Project page</a>]  
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/architect-ant.jpg' alt="Architect-Ant" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a class=PaperTitle><b>Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans</b></a> \\
+*Under Review, 2026*  \\
+Fedor Rodionov, **<font color="#C00000">Aleksandar Cvejic</font>**, Michael Birsak, John Femiani, Peter Wonka  \\
+A vision-language model that furnishes floor plans as an editable coordinate DSL; introduces the AntPlan-270 dataset.  
+</div></div>

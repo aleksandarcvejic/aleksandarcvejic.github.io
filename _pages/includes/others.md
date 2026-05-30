@@ -1,5 +1,7 @@
 # 📚 Academic Service  
-- **Conference reviewer**: CVPR 2024–2026, ECCV 2026, SIGGRAPH 2026, SIGGRAPH Asia 2025. 
+<!-- CVPR 2026 Outstanding Reviewer Award (top 5%) — announced at https://x.com/CVPR/status/2056432742208876945 -->
+<!-- TODO: link official listing once available at https://cvpr.thecvf.com/Conferences/2026/ProgramCommittee -->
+- **Conference reviewer**: CVPR 2024–2026 (Outstanding Reviewer, top 5%), ECCV 2026, NeurIPS 2026, SIGGRAPH 2026, SIGGRAPH Asia 2025–2026. 
 
 # 💼 Experience  
 - *2025.12 – 2026.03* Research Collaborator (Remote) — Snap Research, Snap Inc. Identity-aware visual representations: problem discovery, dataset & benchmark pipeline, model training.
